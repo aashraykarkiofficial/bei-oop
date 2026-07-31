@@ -1,5 +1,5 @@
 /*
-Question 5:
+Question 1:
 Write a program that copies the content of one file into another file,
 changing any lowercase letters to uppercase in the process.
 */

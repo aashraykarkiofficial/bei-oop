@@ -1,5 +1,5 @@
 /*
-Question 6:
+Question 2:
 Store information of at least 5 products in a file and display them.
 Also calculate total number of records using get pointer value / sizeof(object).
 */

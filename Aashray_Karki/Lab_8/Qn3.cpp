@@ -1,5 +1,5 @@
 /*
-Question 7:
+Question 3:
 Read and write information of 3 students in a file.
 Also modify a student's information according to a given roll number.
 */
